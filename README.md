@@ -15,7 +15,7 @@ Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan anal
    1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ✅ 3 video · ⏳ quiz
    2. [Delinea Platform Guard: Entitlement and Identity Threat Protection (PCCE/ITP)](2-Delinea-Platform-Guard-Posture/2.2-Entitlement-and-Identity-Threat-Protection-PCCE-ITP/) — ✅ 1 video
 3. **Delinea Platform Guard : Visibility**
-   1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ⏳
+   1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ✅ 1 video · ⏳ quiz
    2. [Delinea Platform Guard: Continuous Identity Discovery](3-Delinea-Platform-Guard-Visibility/3.2-Continuous-Identity-Discovery/) — ⏳
    3. [Delinea Platform Guard: Vaulting with Secret Server](3-Delinea-Platform-Guard-Visibility/3.3-Vaulting-with-Secret-Server/) — ⏳
 

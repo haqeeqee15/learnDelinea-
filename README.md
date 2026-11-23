@@ -1,35 +1,39 @@
 # Learn Delinea — Catatan Belajar Delinea Platform Guard
 
 Catatan belajar mandiri **Delinea PAM** dari [Delinea University](https://university.delinea.com/), learning plan **Delinea Platform Guard**.
-Setiap lesson berisi ringkasan slide, screenshot, penjelasan konsep dengan analogi, catatan dari sudut pandang senior engineer, dan soal cek pemahaman.
+Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan analogi, catatan dari sudut pandang senior engineer, dan soal cek pemahaman.
 
 > Video di Delinea University tidak memiliki subtitle, jadi catatan disusun dari isi slide + deskripsi lesson.
 
-## Roadmap
+## Daftar Isi
 
-| Bab | Sub-bab | Status |
-|---|---|---|
-| **1. Control** | [1.1 Securing Remote Access](bab-1-control/1.1-securing-remote-access/) | ✅ Selesai (5 video) · ⏳ Quiz |
-| | 1.2 Collections | ⏳ Belum |
-| | 1.3 Privilege Control for Servers (PCS) | ⏳ Belum |
-| **2. Posture** | 2.1 Auditing, Analytics, and Alerting | ⏳ Belum |
-| | 2.2 Entitlement and Identity Threat Protection (PCCE/ITP) | ⏳ Belum |
-| **3. Visibility** | 3.1 Platform Overview | ⏳ Belum |
-| | 3.2 Continuous Identity Discovery | ⏳ Belum |
-| | 3.3 Vaulting with Secret Server | ⏳ Belum |
+1. **Delinea Platform Guard : Control**
+   1. [Delinea Platform Guard: Securing Remote Access](1-Delinea-Platform-Guard-Control/1.1-Securing-Remote-Access/) — ✅ 5 video · ⏳ quiz
+   2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ⏳
+   3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ⏳
+2. **Delinea Platform Guard : Posture**
+   1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ⏳
+   2. [Delinea Platform Guard: Entitlement and Identity Threat Protection (PCCE/ITP)](2-Delinea-Platform-Guard-Posture/2.2-Entitlement-and-Identity-Threat-Protection-PCCE-ITP/) — ⏳
+3. **Delinea Platform Guard : Visibility**
+   1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ⏳
+   2. [Delinea Platform Guard: Continuous Identity Discovery](3-Delinea-Platform-Guard-Visibility/3.2-Continuous-Identity-Discovery/) — ⏳
+   3. [Delinea Platform Guard: Vaulting with Secret Server](3-Delinea-Platform-Guard-Visibility/3.3-Vaulting-with-Secret-Server/) — ⏳
 
 ## Struktur Repo
 ```
-bab-1-control/
-└── 1.1-securing-remote-access/
-    ├── README.md                      ← ringkasan sub-bab
-    ├── 01-pra-overview/
-    │   ├── README.md                  ← catatan lesson
-    │   └── img/                       ← screenshot slide
-    ├── 02-secret-server-launchers/
-    ├── 03-secret-server-workflow/
-    ├── 04-credential-connection-manager/
-    └── 05-session-recording-monitoring/
+1-Delinea-Platform-Guard-Control/
+├── 1.1-Securing-Remote-Access/
+│   ├── README.md        ← semua lesson dalam satu file, dipisah divider
+│   └── img/             ← screenshot, prefix nomor lesson (01-, 02-, ...)
+├── 1.2-Collections/
+└── 1.3-Privilege-Control-for-Servers-PCS/
+2-Delinea-Platform-Guard-Posture/
+├── 2.1-Auditing-Analytics-and-Alerting/
+└── 2.2-Entitlement-and-Identity-Threat-Protection-PCCE-ITP/
+3-Delinea-Platform-Guard-Visibility/
+├── 3.1-Platform-Overview/
+├── 3.2-Continuous-Identity-Discovery/
+└── 3.3-Vaulting-with-Secret-Server/
 ```
 
 ## Format Tiap Lesson

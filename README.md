@@ -9,7 +9,7 @@ Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan anal
 
 1. **Delinea Platform Guard : Control**
    1. [Delinea Platform Guard: Securing Remote Access](1-Delinea-Platform-Guard-Control/1.1-Securing-Remote-Access/) — ✅ 5 video · ⏳ quiz
-   2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ⏳
+   2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ✅ 1 video · ⏳ quiz
    3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ⏳
 2. **Delinea Platform Guard : Posture**
    1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ⏳

@@ -7,12 +7,12 @@ Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan anal
 
 ## Daftar Isi
 
-1. **Delinea Platform Guard : Control**
-   1. [Delinea Platform Guard: Securing Remote Access](1-Delinea-Platform-Guard-Control/1.1-Securing-Remote-Access/) — ✅ 5 video · ⏳ quiz
-   2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ✅ 1 video · ⏳ quiz
-   3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ✅ 2 video · ⏳ quiz
+1. **Delinea Platform Guard : Control** — ✅ Exam: 76
+   1. [Delinea Platform Guard: Securing Remote Access](1-Delinea-Platform-Guard-Control/1.1-Securing-Remote-Access/) — ✅ 5 video
+   2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ✅ 1 video
+   3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ✅ 2 video
 2. **Delinea Platform Guard : Posture**
-   1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ⏳
+   1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ✅ 3 video · ⏳ quiz
    2. [Delinea Platform Guard: Entitlement and Identity Threat Protection (PCCE/ITP)](2-Delinea-Platform-Guard-Posture/2.2-Entitlement-and-Identity-Threat-Protection-PCCE-ITP/) — ⏳
 3. **Delinea Platform Guard : Visibility**
    1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ⏳

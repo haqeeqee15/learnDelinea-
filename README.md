@@ -7,7 +7,7 @@ Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan anal
 
 ## Daftar Isi
 
-1. **Delinea Platform Guard : Control** — ✅ Exam: 76
+1. **Delinea Platform Guard : Control** 
    1. [Delinea Platform Guard: Securing Remote Access](1-Delinea-Platform-Guard-Control/1.1-Securing-Remote-Access/) — ✅ 5 video
    2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ✅ 1 video
    3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ✅ 2 video

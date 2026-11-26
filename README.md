@@ -12,12 +12,15 @@ Setiap sub-bab berisi ringkasan slide, screenshot, penjelasan konsep dengan anal
    2. [Delinea Platform Guard: Collections](1-Delinea-Platform-Guard-Control/1.2-Collections/) — ✅ 1 video
    3. [Delinea Platform Guard: Privilege Control for Servers (PCS)](1-Delinea-Platform-Guard-Control/1.3-Privilege-Control-for-Servers-PCS/) — ✅ 2 video
 2. **Delinea Platform Guard : Posture**
-   1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ✅ 3 video · ⏳ quiz
+   1. [Delinea Platform Guard: Auditing, Analytics, and Alerting](2-Delinea-Platform-Guard-Posture/2.1-Auditing-Analytics-and-Alerting/) — ✅ 3 video
    2. [Delinea Platform Guard: Entitlement and Identity Threat Protection (PCCE/ITP)](2-Delinea-Platform-Guard-Posture/2.2-Entitlement-and-Identity-Threat-Protection-PCCE-ITP/) — ✅ 1 video
 3. **Delinea Platform Guard : Visibility**
-   1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ✅ 1 video · ⏳ quiz
-   2. [Delinea Platform Guard: Continuous Identity Discovery](3-Delinea-Platform-Guard-Visibility/3.2-Continuous-Identity-Discovery/) — ✅ 2 video · ⏳ quiz
-   3. [Delinea Platform Guard: Vaulting with Secret Server](3-Delinea-Platform-Guard-Visibility/3.3-Vaulting-with-Secret-Server/) — ✅ 4 video · ⏳ quiz
+   1. [Delinea Platform Guard: Platform Overview](3-Delinea-Platform-Guard-Visibility/3.1-Platform-Overview/) — ✅ 1 video
+   2. [Delinea Platform Guard: Continuous Identity Discovery](3-Delinea-Platform-Guard-Visibility/3.2-Continuous-Identity-Discovery/) — ✅ 2 video
+   3. [Delinea Platform Guard: Vaulting with Secret Server](3-Delinea-Platform-Guard-Visibility/3.3-Vaulting-with-Secret-Server/) — ✅ 4 video
+
+## Ringkasan, Glosarium & Cheat Sheet
+➡️ **[CHEATSHEET.md](CHEATSHEET.md)** — brief summary 3 bab, glosarium, pasangan istilah yang sering tertukar, tabel "fitur mana punya kemampuan apa", angka wajib hafal, dan pola jebakan soal.
 
 ## Struktur Repo
 ```
